@@ -1,0 +1,1389 @@
+﻿Log file open, 08/13/21 15:09:35
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SummerGameJam2021
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231066
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.51.0
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Goymery -epicuserid=832151a2f01e4a3f838aa5c95baa0a4f -epiclocale=en
+LogInit: Base Directory: C:/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:508][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:569][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.13-20.09.36:569][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.13-20.09.36:570][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.13-20.09.36:571][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.13-20.09.36:571][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.13-20.09.36:571][  0]LogHAL: Display: Platform has ~ 16 GB [17144856576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.13-20.09.36:571][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.13-20.09.36:571][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.13-20.09.36:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Scalability.ini]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Engine.ini]
+[2021.08.13-20.09.36:572][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Config/Windows/Editor.ini]
+[2021.08.13-20.09.36:572][  0]LogInit: Computer: DESKTOP-3H03C6O
+[2021.08.13-20.09.36:572][  0]LogInit: User: Pc
+[2021.08.13-20.09.36:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.13-20.09.36:572][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.13-20.09.36:573][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.08.13-20.09.36:573][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.13-20.09.36:573][  0]LogMemory: Process Physical Memory: 137.52 MB used, 137.52 MB peak
+[2021.08.13-20.09.36:573][  0]LogMemory: Process Virtual Memory: 119.77 MB used, 119.77 MB peak
+[2021.08.13-20.09.36:573][  0]LogMemory: Physical Memory: 7528.79 MB used,  8821.82 MB free, 16350.61 MB total
+[2021.08.13-20.09.36:573][  0]LogMemory: Virtual Memory: 134206056.00 MB used,  11670.92 MB free, 134217728.00 MB total
+[2021.08.13-20.09.36:578][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.13-20.09.36:622][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.13-20.09.36:623][  0]LogInit: Using OS detected language (en-US).
+[2021.08.13-20.09.36:623][  0]LogInit: Using OS detected locale (en-US).
+[2021.08.13-20.09.36:628][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.13-20.09.36:816][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.13-20.09.36:830][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.13-20.09.36:849][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.13-20.09.36:849][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.13-20.09.37:040][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.08.13-20.09.37:040][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.13-20.09.37:040][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.13-20.09.37:040][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.13-20.09.37:147][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.08.13-20.09.37:147][  0]LogD3D11RHI:       8088/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.13-20.09.37:149][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.13-20.09.37:150][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.13-20.09.37:150][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.13-20.09.37:155][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.13-20.09.37:155][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.13-20.09.37:155][  0]LogWindows: EnumDisplayDevices:
+[2021.08.13-20.09.37:155][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.08.13-20.09.37:155][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.08.13-20.09.37:155][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.08.13-20.09.37:156][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.08.13-20.09.37:156][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.08.13-20.09.37:156][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.08.13-20.09.37:156][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.08.13-20.09.37:156][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.08.13-20.09.37:156][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.08.13-20.09.37:233][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.13-20.09.37:233][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.13-20.09.37:233][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.13-20.09.37:235][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061082).
+[2021.08.13-20.09.37:251][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.13-20.09.37:253][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.13-20.09.37:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.13-20.09.37:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.13-20.09.37:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.13-20.09.37:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.13-20.09.37:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.13-20.09.37:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.13-20.09.37:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.13-20.09.37:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.13-20.09.37:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.13-20.09.37:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.13-20.09.37:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.13-20.09.37:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.13-20.09.37:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.13-20.09.37:728][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.13-20.09.37:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.13-20.09.37:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.13-20.09.37:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.13-20.09.37:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.13-20.09.37:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.13-20.09.37:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.13-20.09.37:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.13-20.09.37:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.13-20.09.37:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.13-20.09.37:799][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.13-20.09.37:807][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.13-20.09.37:866][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.13-20.09.37:866][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Intermediate/Shaders/WorkingDirectory/8396/).
+[2021.08.13-20.09.37:867][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pc/AppData/Local/Temp/UnrealShaderWorkingDir/51EF67274127DFF3DF26AC9738EA1E6B/'.
+[2021.08.13-20.09.37:867][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.13-20.09.37:867][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.13-20.09.38:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.13-20.09.38:699][  0]LogDerivedDataCache: Loaded boot cache 0.05s 89MB C:/Users/Pc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.13-20.09.38:700][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Pc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.13-20.09.38:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.13-20.09.38:700][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.13-20.09.38:700][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.13-20.09.38:700][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.13-20.09.38:711][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.13-20.09.38:711][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.13-20.09.38:711][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.13-20.09.38:724][  0]LogDerivedDataCache: Speed tests for C:/Users/Pc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.13-20.09.38:724][  0]LogDerivedDataCache: Display: Performance to C:/Users/Pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1317.77MBs, RandomWriteSpeed=83.62MBs. Assigned SpeedClass 'Local'
+[2021.08.13-20.09.38:724][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.13-20.09.38:725][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.13-20.09.38:725][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.13-20.09.38:777][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.13-20.09.38:778][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.13-20.09.38:802][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2021.08.13-20.09.39:057][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.13-20.09.39:057][  0]LogInit: Active device profile: [000002681013AE00][000002680C658600 49] Windows
+[2021.08.13-20.09.39:057][  0]LogInit: Profiles: [000002681013AE00][000002680C658600 49] Windows, [00000268100E9500][000002680F1C8780 49] WindowsNoEditor, [0000026810139600][000002680F1CC900 49] WindowsServer, [00000268100EAE00][000002680F1D0A80 49] WindowsClient, [000002681013A800][000002680F1D4C00 49] IOS, [00000268100E9400][000002680F1D8D80 49] iPadAir, [0000026810139500][000002680F1DCF00 49] iPadAir2, [000002680FF94400][000002680F2751C0 49] IPadPro, [000002680FF94500][000002680F1E1200 49] iPadAir3, [000002681013B200][000002680F27F380 49] iPadAir4, [000002680FF96900][000002680F287500 49] iPadMini2, [0000026810139200][000002680F1C5640 49] iPadMini3, [000002680FF94900][0000026810385780 49] iPadMini4, [0000026810138D00][0000026804A738C0 49] iPadMini5, [000002680FE4FC00][0000026804A7FB40 49] iPhone6, [000002680FE4FD00][0000026804A77B80 49] iPodTouch6, [000002680FF95200][0000026804A86180 49] iPhone7, [000002680FF96D00][0000026804A821C0 49] iPodTouch7, [000002680FE4D900][0000026804A8A340 49] iPhone5S, [000002680FF95100][0000026804A8E4C0 49] iPhone6Plus, [000002680FE4CD00][0000026804A92640 49] iPhone6S, [000002680FF96C00][0000026804A967C0 49] iPhone6SPlus, [000002680FE4D600][0000026804A9A940 49] iPhone7Plus, [000002680FF94F00][0000026804A9EAC0 49] iPhoneSE, [000002680FE4E400][0000026804AA2C40 49] iPhone8, [000002680FF95D00][0000026804AA6DC0 49] iPhone8Plus, [000002680FE4DF00][0000026804AAAF40 49] iPhoneX, [000002680FF96500][000002680DC710C0 49] iPhoneXS, [000002680FE4E100][000002680DC75240 49] iPhoneXSMax, [000002680FF94200][000002680DC793C0 49] iPhoneXR, [000002680FE4FA00][000002680DC7D540 49] iPhone11, [000002680FF96700][000002680DC816C0 49] iPhone11Pro, [000002680FE4D800][0000026804A7B800 49] iPhone11ProMax, [000002680FF95900][000002680DC85940 49] iPhoneSE2, [000002680FE4F100][000002680DC89A80 49] iPhone12Mini, [000002680FF96400][000002680DC91C00 49] iPhone12, [000002680FE4C400][000002680DC940C0 49] iPhone12Pro, [000002680FF95300][000002680DC98240 49] iPhone12ProMax, [000002680FE4F600][000002680DC9C3C0 49] iPadPro105, [000002680FF97400][000002680DCA0540 49] iPadPro129, [000002680FE4CC00][000002680DCA46C0 49] iPadPro97, [000002680FF97700][000002680DCA8840 49] iPadPro2_129, [000002680FE4F500][000002680DCAC9C0 49] iPad5, [000002680FF97D00][000002680DCB0B40 49] iPad6, [000002680FE4D500][000002680DCB4CC0 49] iPad7, [000002680FF97C00][000002680DCB8E40 49] iPad8, [000002680FE4EF00][000002680DCBCFC0 49] iPadPro11, [000002680FF97A00][000002680DCC1140 49] iPadPro2_11, [000002680FE4D400][000002680DCC52C0 49] iPadPro3_129, [000002680FF95000][000002680DCC9440 49] iPadPro4_129, [000002680FE4E900][000002680DD355C0 49] AppleTV, [000002680FF97800][000002680DD39740 49] AppleTV4K, [000002680FE4E600][000002680DC8D880 49] TVOS, [000002680FE4DE00][000002680DD3D9C0 49] Mac, [00000268100E8E00][000002680DD41B00 49] MacClient, [000002680FE4FE00][000002680DD45C40 49] MacNoEditor, [00000268100EBA00][000002680DD4C100 49] MacServer, [000002680FE4C900][000002680DD50280 49] Linux, [00000268100EA300][000002680DD54400 49] LinuxAArch64, [0000026810290300][000002680DD58580 49] LinuxNoEditor, [00000268100E9600][000002680DD5C700 49] LinuxAArch64NoEditor, [0000026810290600][000002680DD60880 49] LinuxClient, [00000268100E8700][000002680DD64A00 49] LinuxAArch64Client, [000002680FF94B00][000002680DD68B80 49] LinuxServer, [00000268100EB700][000002680DD6CD00 49] LinuxAArch64Server, [000002680FF94300][000002680DD70E80 49] Android, [00000268100E8200][000002680DD75000 49] Android_Low, [000002680FF94D00][000002680DD79180 49] Android_Mid, [00000268100E9800][000002680DD7D300 49] Android_High, [000002680FF97900][000002680DD81480 49] Android_Default, [00000268100E9700][000002680DD85600 49] Android_Adreno4xx, [000002680FF96200][000002680DD89780 49] Android_Adreno5xx_Low, [00000268100E9300][000002680DD498C0 49] Android_Adreno5xx, [000002680FF96800][000002680DD8DA00 49] Android_Adreno6xx, [00000268100E8100][000002680DD91B40 49] Android_Adreno6xx_Vulkan, [000002680FF95800][000002680DD95C80 49] Android_Mali_T6xx, [00000268100EB200][000002680DD9C140 49] Android_Mali_T7xx, [000002680FF95400][000002680EF062C0 49] Android_Mali_T8xx, [00000268100EAC00][000002680EF0A440 49] Android_Mali_G71, [000002680FF97600][000002680EF0E5C0 49] Android_Mali_G72, [00000268100EB400][000002680EF12740 49] Android_Mali_G72_Vulkan, [000002680FF94E00][000002680EF168C0 49] Android_Mali_G76, [00000268100E8C00][000002680EF1AA40 49] Android_Mali_G76_Vulkan, [000002680FF96F00][000002680EF1EBC0 49] Android_Mali_G77, [00000268100E9C00][000002680EF22D40 49] Android_Mali_G77_Vulkan, [000002680FF95700][000002680EF26EC0 49] Android_Vulkan_SM5, [00000268100E8F00][000002680EF2B040 49] Android_PowerVR_G6xxx, [000002680FF96300][000002680EF2F1C0 49] Android_PowerVR_GT7xxx, [00000268100E8300][000002680EF33340 49] Android_PowerVR_GE8xxx, [000002680FF94100][000002680EF374C0 49] Android_PowerVR_GM9xxx, [00000268100E8500][000002680EF3B640 49] Android_PowerVR_GM9xxx_Vulkan, [000002680FF96B00][000002680EF3F7C0 49] Android_TegraK1, [00000268100E8800][000002680EF43940 49] Android_Unknown_Vulkan, [000002680FF95500][000002680DD99A80 49] Lumin, [00000268100E9A00][000002680EF47BC0 49] Lumin_Desktop, [000002680FE4CB00][000002680EF4BD00 49] HoloLens, 
+[2021.08.13-20.09.39:200][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.13-20.09.39:200][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.13-20.09.39:200][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.13-20.09.39:200][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.13-20.09.39:200][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.13-20.09.39:228][  0]LogNetVersion: SummerGameJam2021 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4206513876)
+[2021.08.13-20.09.39:692][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.13-20.09.39:758][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.064960 seconds
+[2021.08.13-20.09.39:767][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.13-20.09.39:767][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.13-20.09.39:767][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.13-20.09.40:161][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.13-20.09.40:167][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.13-20.09.40:220][  0]LogLinker: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2021.08.13-20.09.40:221][  0]LogLinker: Warning: Failed to load '/Game/TopDownCPP/TopDownOverview': Can't find file.
+[2021.08.13-20.09.40:221][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownCPP/TopDownOverview.TopDownOverview_C'
+[2021.08.13-20.09.40:243][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.40:243][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.40:246][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.40:252][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.40:259][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.40:265][  0]LogUProjectInfo: Found projects:
+[2021.08.13-20.09.40:482][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.13-20.09.40:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.13-20.09.40:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.13-20.09.40:562][  0]LogCollectionManager: Loaded 0 collections in 0.000731 seconds
+[2021.08.13-20.09.40:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Collections/' took 0.00s
+[2021.08.13-20.09.40:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/Developers/Pc/Collections/' took 0.00s
+[2021.08.13-20.09.40:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/Collections/' took 0.00s
+[2021.08.13-20.09.40:587][  0]LogOcInput: OculusInput pre-init called
+[2021.08.13-20.09.40:805][  0]LogEngine: Initializing Engine...
+[2021.08.13-20.09.40:865][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.08.13-20.09.40:865][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.13-20.09.40:866][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.13-20.09.40:987][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.13-20.09.40:995][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.13-20.09.41:010][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.13-20.09.41:013][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.13-20.09.41:013][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.09.41:013][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.09.41:013][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.09.41:013][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.09.41:027][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.09.41:027][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.09.41:060][  0]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.09.41:061][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.09.41:062][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.09.41:063][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.09.41:063][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.09.41:063][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.09.41:063][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.09.41:064][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.09.41:064][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.09.41:064][  0]LogInit: FAudioDevice initialized.
+[2021.08.13-20.09.41:064][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.13-20.09.41:064][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.13-20.09.41:148][  0]LogDerivedDataCache: Saved boot cache 0.08s 89MB C:/Users/Pc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.13-20.09.41:149][  0]LogInit: Texture streaming: Enabled
+[2021.08.13-20.09.41:161][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.13-20.09.41:165][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.13-20.09.41:165][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.13-20.09.41:166][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.13-20.09.41:180][  0]LogInit: Transaction tracking system initialized
+[2021.08.13-20.09.41:203][  0]BlueprintLog: New page: Editor Load
+[2021.08.13-20.09.41:305][  0]LocalizationService: Localization service is disabled
+[2021.08.13-20.09.41:333][  0]TimingProfiler: Initialize
+[2021.08.13-20.09.41:333][  0]TimingProfiler: OnSessionChanged
+[2021.08.13-20.09.41:333][  0]LoadingProfiler: Initialize
+[2021.08.13-20.09.41:333][  0]LoadingProfiler: OnSessionChanged
+[2021.08.13-20.09.41:333][  0]NetworkingProfiler: Initialize
+[2021.08.13-20.09.41:333][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.13-20.09.41:333][  0]MemoryProfiler: Initialize
+[2021.08.13-20.09.41:333][  0]MemoryProfiler: OnSessionChanged
+[2021.08.13-20.09.41:483][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.13-20.09.41:483][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.13-20.09.41:596][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/' took 0.00s
+[2021.08.13-20.09.41:793][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.13-20.09.41:797][  0]SourceControl: Source control is disabled
+[2021.08.13-20.09.41:797][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.932
+[2021.08.13-20.09.41:799][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Unreal/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.08.13-20.09.41:799][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.41:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.41:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.13-20.09.41:801][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.08.13-20.09.41:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.08.13-20.09.41:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.08.13-20.09.41:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.08.13-20.09.41:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.08.13-20.09.41:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.08.13-20.09.41:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.08.13-20.09.41:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.08.13-20.09.41:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.08.13-20.09.41:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.08.13-20.09.41:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.08.13-20.09.41:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.08.13-20.09.41:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.08.13-20.09.41:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.08.13-20.09.41:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.08.13-20.09.41:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.08.13-20.09.41:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.08.13-20.09.41:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.08.13-20.09.41:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Fire01.uasset"
+[2021.08.13-20.09.41:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.08.13-20.09.41:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.08.13-20.09.41:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.08.13-20.09.41:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Light01.uasset"
+[2021.08.13-20.09.41:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.08.13-20.09.41:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Light02.uasset"
+[2021.08.13-20.09.41:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.08.13-20.09.41:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.08.13-20.09.41:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.08.13-20.09.41:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.08.13-20.09.41:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.08.13-20.09.41:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.08.13-20.09.41:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.08.13-20.09.41:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.08.13-20.09.41:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.08.13-20.09.41:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Steam01.uasset"
+[2021.08.13-20.09.41:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.08.13-20.09.41:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.08.13-20.09.41:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.08.13-20.09.41:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.08.13-20.09.41:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.08.13-20.09.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.08.13-20.09.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.08.13-20.09.41:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.08.13-20.09.41:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.08.13-20.09.41:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.08.13-20.09.41:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.08.13-20.09.41:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.08.13-20.09.41:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.08.13-20.09.41:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.08.13-20.09.41:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.08.13-20.09.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.08.13-20.09.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.08.13-20.09.41:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.08.13-20.09.41:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.08.13-20.09.41:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.08.13-20.09.41:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.08.13-20.09.41:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.08.13-20.09.41:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/StarterMap.umap"
+[2021.08.13-20.09.41:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.08.13-20.09.41:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.08.13-20.09.41:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.08.13-20.09.41:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.08.13-20.09.41:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.08.13-20.09.41:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.08.13-20.09.41:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.08.13-20.09.41:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.08.13-20.09.41:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.08.13-20.09.41:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.08.13-20.09.41:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.08.13-20.09.41:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.08.13-20.09.41:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.08.13-20.09.41:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.08.13-20.09.41:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.08.13-20.09.41:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.08.13-20.09.41:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.08.13-20.09.41:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.08.13-20.09.41:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.08.13-20.09.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.08.13-20.09.41:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.08.13-20.09.41:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.08.13-20.09.41:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.08.13-20.09.41:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.08.13-20.09.41:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.08.13-20.09.41:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.08.13-20.09.41:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.08.13-20.09.41:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.08.13-20.09.41:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.08.13-20.09.41:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.08.13-20.09.41:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.08.13-20.09.41:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.08.13-20.09.41:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.08.13-20.09.41:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.08.13-20.09.41:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.08.13-20.09.41:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.08.13-20.09.41:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.08.13-20.09.41:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.08.13-20.09.41:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.08.13-20.09.41:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.08.13-20.09.41:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.08.13-20.09.41:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.08.13-20.09.41:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.08.13-20.09.41:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.08.13-20.09.41:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.08.13-20.09.41:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.08.13-20.09.41:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.08.13-20.09.41:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.08.13-20.09.41:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.08.13-20.09.41:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.08.13-20.09.41:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.08.13-20.09.41:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.08.13-20.09.41:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.08.13-20.09.41:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.08.13-20.09.41:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.08.13-20.09.42:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.08.13-20.09.42:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.08.13-20.09.42:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.08.13-20.09.42:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.08.13-20.09.42:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.08.13-20.09.42:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.08.13-20.09.42:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.08.13-20.09.42:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.08.13-20.09.42:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.08.13-20.09.42:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.08.13-20.09.42:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Door.uasset"
+[2021.08.13-20.09.42:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.08.13-20.09.42:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.08.13-20.09.42:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.08.13-20.09.42:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.08.13-20.09.42:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.08.13-20.09.42:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.08.13-20.09.42:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.08.13-20.09.42:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.08.13-20.09.42:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.08.13-20.09.42:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.08.13-20.09.42:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.08.13-20.09.42:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.08.13-20.09.42:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.08.13-20.09.42:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.08.13-20.09.42:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.08.13-20.09.42:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.08.13-20.09.42:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.08.13-20.09.42:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.08.13-20.09.42:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.08.13-20.09.42:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.08.13-20.09.42:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.08.13-20.09.42:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.08.13-20.09.42:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.08.13-20.09.42:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.08.13-20.09.42:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.08.13-20.09.42:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.08.13-20.09.42:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.08.13-20.09.42:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.08.13-20.09.42:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.08.13-20.09.42:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.08.13-20.09.42:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.08.13-20.09.42:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.08.13-20.09.42:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.08.13-20.09.42:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.08.13-20.09.42:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.08.13-20.09.42:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.08.13-20.09.42:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.08.13-20.09.42:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.08.13-20.09.42:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.08.13-20.09.42:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.08.13-20.09.42:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.08.13-20.09.42:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.08.13-20.09.42:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.08.13-20.09.42:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.08.13-20.09.42:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.08.13-20.09.42:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.08.13-20.09.42:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.08.13-20.09.42:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.08.13-20.09.42:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.08.13-20.09.42:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.08.13-20.09.42:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.08.13-20.09.42:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.08.13-20.09.42:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.08.13-20.09.42:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.08.13-20.09.42:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.08.13-20.09.42:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.08.13-20.09.42:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.08.13-20.09.42:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.08.13-20.09.42:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.08.13-20.09.42:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.08.13-20.09.42:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.08.13-20.09.42:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.08.13-20.09.42:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.08.13-20.09.42:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.08.13-20.09.42:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.08.13-20.09.42:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.08.13-20.09.42:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.08.13-20.09.42:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.08.13-20.09.42:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.08.13-20.09.42:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.08.13-20.09.42:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.08.13-20.09.42:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.08.13-20.09.42:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.08.13-20.09.42:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.08.13-20.09.42:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.08.13-20.09.42:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.08.13-20.09.42:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.08.13-20.09.42:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.08.13-20.09.42:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.08.13-20.09.42:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.08.13-20.09.42:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.08.13-20.09.42:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.08.13-20.09.42:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.08.13-20.09.42:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.08.13-20.09.42:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.08.13-20.09.42:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.08.13-20.09.42:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.08.13-20.09.42:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.08.13-20.09.42:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.08.13-20.09.42:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.08.13-20.09.42:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.08.13-20.09.42:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.08.13-20.09.42:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.08.13-20.09.42:263][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.08.13-20.09.42:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.08.13-20.09.42:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.08.13-20.09.42:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.08.13-20.09.42:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.08.13-20.09.42:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.08.13-20.09.42:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.08.13-20.09.42:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.08.13-20.09.42:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.08.13-20.09.42:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.08.13-20.09.42:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.08.13-20.09.42:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.08.13-20.09.42:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.08.13-20.09.42:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.08.13-20.09.42:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.08.13-20.09.42:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.08.13-20.09.42:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.08.13-20.09.42:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.08.13-20.09.42:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.08.13-20.09.42:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.08.13-20.09.42:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.08.13-20.09.42:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.08.13-20.09.42:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.08.13-20.09.42:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.08.13-20.09.42:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.08.13-20.09.42:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.08.13-20.09.42:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.08.13-20.09.42:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.08.13-20.09.42:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.08.13-20.09.42:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.08.13-20.09.42:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.08.13-20.09.42:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.08.13-20.09.42:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.08.13-20.09.42:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.08.13-20.09.42:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.08.13-20.09.42:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.08.13-20.09.42:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.08.13-20.09.42:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.08.13-20.09.42:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.08.13-20.09.42:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.08.13-20.09.42:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.08.13-20.09.42:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.08.13-20.09.42:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.08.13-20.09.42:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.08.13-20.09.42:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.08.13-20.09.42:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.08.13-20.09.42:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.08.13-20.09.42:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.08.13-20.09.42:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.08.13-20.09.42:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.08.13-20.09.42:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.08.13-20.09.42:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.08.13-20.09.42:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.08.13-20.09.42:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.08.13-20.09.42:475][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.08.13-20.09.42:581][  0]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Floor_400x400AE40E6FA47D6577EBBAF91934EFA8D84.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.08.13-20.09.42:582][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.08.13-20.09.42:583][  0]Cmd: MAP LOAD FILE="../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.13-20.09.42:583][  0]LightingResults: New page: Lighting Build
+[2021.08.13-20.09.42:584][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.09.42:584][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.09.42:584][  0]MapCheck: New page: Map Check
+[2021.08.13-20.09.42:584][  0]LightingResults: New page: Lighting Build
+[2021.08.13-20.09.42:592][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.13-20.09.42:766][  0]LogTexture: Display: Building textures: DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (BGRA8, 128X128)
+[2021.08.13-20.09.42:863][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.09.42:864][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.09.42:872][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.13-20.09.42:873][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.08.13-20.09.42:879][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.08.13-20.09.42:881][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.13-20.09.42:881][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2021.08.13-20.09.42:881][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.299
+[2021.08.13-20.09.42:883][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.017
+[2021.08.13-20.09.43:031][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.09.43:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.09.43:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.09.43:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.09.43:059][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3601 classes and 859 folders.
+[2021.08.13-20.09.43:061][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.13-20.09.43:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.13-20.09.43:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.13-20.09.43:064][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.13-20.09.43:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.13-20.09.43:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.13-20.09.43:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:065][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.13-20.09.43:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.13-20.09.43:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.13-20.09.43:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.13-20.09.43:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:067][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.13-20.09.43:067][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.08.13-20.09.43:068][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.13-20.09.43:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.13-20.09.43:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.13-20.09.43:069][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.13-20.09.43:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.13-20.09.43:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.13-20.09.43:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.13-20.09.43:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.08.13-20.09.43:071][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.13-20.09.43:071][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:071][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.13-20.09.43:071][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.13-20.09.43:072][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.13-20.09.43:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.13-20.09.43:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.08.13-20.09.43:073][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.13-20.09.43:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.13-20.09.43:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.08.13-20.09.43:074][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.13-20.09.43:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.13-20.09.43:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.08.13-20.09.43:075][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.13-20.09.43:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.13-20.09.43:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.13-20.09.43:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.13-20.09.43:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.08.13-20.09.43:077][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.13-20.09.43:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.13-20.09.43:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.13-20.09.43:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.13-20.09.43:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.13-20.09.43:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.13-20.09.43:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.08.13-20.09.43:080][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.13-20.09.43:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.13-20.09.43:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.13-20.09.43:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.08.13-20.09.43:122][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.13-20.09.43:123][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.08.13-20.09.43:152][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.13-20.09.43:154][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.13-20.09.43:158][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.13-20.09.43:212][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2021.08.13-20.09.43:299][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.13-20.09.43:299][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.13-20.09.43:299][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.08.13-20.09.43:299][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.13-20.09.43:299][  0]LogLoad: (Engine Initialization) Total time: 8.43 seconds
+[2021.08.13-20.09.43:299][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.13-20.09.43:299][  0]LogInit: First time updating LLM stats...
+[2021.08.13-20.09.43:315][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.08.13-20.09.43:315][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.08.13-20.09.43:335][  0]LogAssetRegistry: Asset discovery search completed in 4.5327 seconds
+[2021.08.13-20.09.43:336][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.08.13-20.09.43:337][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.13-20.09.50:074][215]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-20.09.50:077][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-20.09.50:077][215]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2021, 10:09:50 AM)
+[2021.08.13-20.09.50:078][215]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.13-20.09.50:079][215]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.13-20.09.50:079][215]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.09.50:092][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012282s)
+[2021.08.13-20.09.50:093][215]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.09.50:094][215]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2021.08.13-20.09.50:094][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014272s)
+[2021.08.13-20.09.50:099][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.13-20.09.50:100][215]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.09.50:101][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.09.50:101][215]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.09.50:101][215]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.09.50:106][215]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.09.50:106][215]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.09.50:121][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.09.50:121][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.09.50:134][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.09.50:134][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.09.50:134][215]LogInit: FAudioDevice initialized.
+[2021.08.13-20.09.50:134][215]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.09.50:139][215]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.13-20.09.50:142][215]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.13-15.09.50
+[2021.08.13-20.09.50:142][215]LogWorld: Bringing up level for play took: 0.001707
+[2021.08.13-20.09.50:143][215]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.08.13-20.09.50:146][215]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.08.13-20.09.50:146][215]PIE: Server logged in
+[2021.08.13-20.09.50:147][215]PIE: Play in editor total start time 0.07 seconds.
+[2021.08.13-20.10.01:974][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.10.01:974][617]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.10.01:974][617]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.10.01:974][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.10.01:982][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-20.10.01:984][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.10.01:988][617]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-20.10.01:988][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.10.01:989][617]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.10.02:004][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.10.02:006][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.08.13-20.10.02:042][621]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.08.13-20.11.12:190][402]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2021.08.13-20.11.12:198][402]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2021.08.13-20.11.20:536][401]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> securityCamera
+[2021.08.13-20.11.20:538][401]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2021.08.13-20.12.04:985][695]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2021.08.13-20.12.58:205][174]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.13-20.13.41:099][162]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.13-20.16.09:059][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.13-20.16.10:988][649]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.13-20.16.11:065][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.08.13-20.16.11:077][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.13-20.16.11:082][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.08.13-20.16.12:045][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.08.13-20.16.13:006][760]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.13-20.16.13:053][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.13-20.17.01:827][354]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap
+[2021.08.13-20.17.02:051][354]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.08.13-20.17.02:898][354]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.13-20.21.20:649][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.08.13-20.21.20:674][120]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_Auto1BB6F4A334570CCD566E1A9894B57C91E.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2021.08.13-20.21.20:676][120]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.050
+[2021.08.13-20.21.20:676][120]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2021.08.13-20.25.43:861][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.08.13-20.25.43:885][472]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap78AB74484B40C6E5ADFB07AAD7F3A1C1.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.13-20.25.43:895][472]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.052
+[2021.08.13-20.25.43:908][472]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.08.13-20.25.43:908][472]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.13-20.26.01:575][290]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.26.01:610][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.08.13-20.26.03:464][470]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.26.03:492][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.08.13-20.26.04:499][556]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-20.26.04:503][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-20.26.04:503][556]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2021, 10:26:04 AM)
+[2021.08.13-20.26.04:503][556]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.26.04:513][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010418s)
+[2021.08.13-20.26.04:515][556]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.26.04:516][556]LogPlayLevel: PIE: World Init took: (0.002026s)
+[2021.08.13-20.26.04:516][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012701s)
+[2021.08.13-20.26.04:536][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.08.13-20.26.04:537][556]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.26.04:537][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.26.04:537][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.26.04:538][556]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.26.04:538][556]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.26.04:541][556]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.26.04:541][556]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.26.04:555][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.26.04:555][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.26.04:568][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.26.04:568][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.26.04:568][556]LogInit: FAudioDevice initialized.
+[2021.08.13-20.26.04:568][556]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.26.04:579][556]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.13-20.26.04:581][556]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.13-15.26.04
+[2021.08.13-20.26.04:581][556]LogWorld: Bringing up level for play took: 0.001536
+[2021.08.13-20.26.04:581][556]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.08.13-20.26.04:583][556]PIE: Server logged in
+[2021.08.13-20.26.04:584][556]PIE: Play in editor total start time 0.081 seconds.
+[2021.08.13-20.26.34:325][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.26.34:325][940]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.26.34:325][940]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.26.34:325][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.26.34:332][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-20.26.34:366][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.26.34:382][940]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-20.26.34:383][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.26.34:383][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.26.34:399][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.26.34:404][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.08.13-20.26.34:449][941]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.08.13-20.26.37:949][286]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-20.26.37:954][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-20.26.37:954][286]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2021, 10:26:37 AM)
+[2021.08.13-20.26.37:954][286]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.26.37:965][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010903s)
+[2021.08.13-20.26.37:966][286]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.26.37:967][286]LogPlayLevel: PIE: World Init took: (0.001452s)
+[2021.08.13-20.26.37:967][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012540s)
+[2021.08.13-20.26.37:988][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.13-20.26.37:989][286]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.13-20.26.37:989][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.26.37:989][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.26.37:990][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.26.37:990][286]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.26.37:990][286]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.26.37:993][286]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.26.37:993][286]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.26.38:008][286]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.26.38:009][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.26.38:009][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.26.38:009][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.26.38:009][286]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.26.38:009][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.26.38:009][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.26.38:022][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.26.38:022][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.26.38:022][286]LogInit: FAudioDevice initialized.
+[2021.08.13-20.26.38:022][286]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.26.38:029][286]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.13-20.26.38:032][286]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.13-15.26.38
+[2021.08.13-20.26.38:032][286]LogWorld: Bringing up level for play took: 0.001457
+[2021.08.13-20.26.38:032][286]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.08.13-20.26.38:034][286]PIE: Server logged in
+[2021.08.13-20.26.38:034][286]PIE: Play in editor total start time 0.081 seconds.
+[2021.08.13-20.26.44:995][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.26.44:995][ 95]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.26.44:995][ 95]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.26.44:995][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.26.45:001][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-20.26.45:036][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.26.45:053][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.13-20.26.45:053][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.26.45:054][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.26.45:069][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.26.45:072][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.08.13-20.26.45:118][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.08.13-20.30.53:088][995]Cmd: DUPLICATE
+[2021.08.13-20.30.53:088][995]Cmd: ACTOR DUPLICATE
+[2021.08.13-20.32.44:788][946]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.32.44:819][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.08.13-20.32.46:229][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.13-20.32.48:723][336]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-20.32.48:727][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-20.32.48:727][336]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2021, 10:32:48 AM)
+[2021.08.13-20.32.48:727][336]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.32.48:738][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010710s)
+[2021.08.13-20.32.48:739][336]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.32.48:739][336]LogPlayLevel: PIE: World Init took: (0.001441s)
+[2021.08.13-20.32.48:739][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012347s)
+[2021.08.13-20.32.48:760][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2021.08.13-20.32.48:763][336]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.32.48:763][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.32.48:763][336]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.32.48:763][336]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.32.48:767][336]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.32.48:767][336]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.32.48:781][336]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.32.48:781][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.32.48:781][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.32.48:781][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.32.48:782][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.32.48:782][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.32.48:782][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.32.48:796][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.32.48:796][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.32.48:796][336]LogInit: FAudioDevice initialized.
+[2021.08.13-20.32.48:796][336]LogAudio: Display: Audio Device (ID: 5) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.32.48:801][336]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.13-20.32.48:804][336]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.13-15.32.48
+[2021.08.13-20.32.48:811][336]LogWorld: Bringing up level for play took: 0.008503
+[2021.08.13-20.32.48:811][336]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.08.13-20.32.48:813][336]PIE: Server logged in
+[2021.08.13-20.32.48:814][336]PIE: Play in editor total start time 0.088 seconds.
+[2021.08.13-20.33.14:335][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.33.14:335][183]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.33.14:335][183]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.33.14:335][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.33.14:340][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-20.33.14:355][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.33.14:371][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.33.14:371][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.33.14:372][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.33.14:391][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.08.13-20.33.14:425][184]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.08.13-20.34.57:564][346]Cmd: DUPLICATE
+[2021.08.13-20.34.57:564][346]Cmd: ACTOR DUPLICATE
+[2021.08.13-20.35.28:758][942]Cmd: DUPLICATE
+[2021.08.13-20.35.28:758][942]Cmd: ACTOR DUPLICATE
+[2021.08.13-20.37.11:403][439]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.37.11:412][439]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.11:413][439]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.11:413][439]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.11:413][439]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.11:446][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.13-20.37.11:496][439]LogSlate: Took 0.006498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.13-20.37.19:038][117]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.37.19:041][117]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.19:042][117]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.19:042][117]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.19:042][117]LogBlueprint: Error: [AssetLog] C:\Users\Pc\Desktop\Summer-Game-Jam-2021\Summer-Game-Jam-2021\SummerGameJam2021\Content\TopDownBP\Maps\TopDownExampleMap.umap: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2021.08.13-20.37.19:074][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.08.13-20.37.40:191][ 89]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.08.13-20.37.40:221][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.08.13-20.37.45:218][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.13-20.37.45:221][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.13-20.37.45:221][558]PIE: New page: PIE session: TopDownExampleMap (Aug 13, 2021, 10:37:45 AM)
+[2021.08.13-20.37.45:222][558]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.37.45:233][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011265s)
+[2021.08.13-20.37.45:234][558]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.08.13-20.37.45:235][558]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2021.08.13-20.37.45:235][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012966s)
+[2021.08.13-20.37.45:258][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.08.13-20.37.45:260][558]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.13-20.37.45:260][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.13-20.37.45:260][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.13-20.37.45:260][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.13-20.37.45:265][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.13-20.37.45:265][558]LogAudioMixer: Display: 1: FrontRight
+[2021.08.13-20.37.45:279][558]LogAudioMixer: Display: Using Audio Device Speakers (Sound BlasterX G5)
+[2021.08.13-20.37.45:279][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.13-20.37.45:279][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.13-20.37.45:279][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.13-20.37.45:280][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.13-20.37.45:280][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.13-20.37.45:280][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.13-20.37.45:280][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.13-20.37.45:280][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.13-20.37.45:280][558]LogInit: FAudioDevice initialized.
+[2021.08.13-20.37.45:281][558]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownExampleMap'.
+[2021.08.13-20.37.45:300][558]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.08.13-20.37.45:304][558]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.08.13-15.37.45
+[2021.08.13-20.37.45:304][558]LogWorld: Bringing up level for play took: 0.003007
+[2021.08.13-20.37.45:304][558]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.08.13-20.37.45:306][558]PIE: Server logged in
+[2021.08.13-20.37.45:307][558]PIE: Play in editor total start time 0.086 seconds.
+[2021.08.13-20.38.24:664][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.38.24:664][166]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.08.13-20.38.24:664][166]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.13-20.38.24:664][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.38.24:669][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.13-20.38.24:709][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.13-20.38.24:726][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.13-20.38.24:727][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.38.24:727][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.13-20.38.24:746][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.08.13-20.38.24:805][167]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.08.13-20.38.59:171][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.08.13-20.38.59:200][ 29]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_Auto232DD7C7B4D178385F17709B0B019AD7A.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2021.08.13-20.38.59:201][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.049
+[2021.08.13-20.38.59:201][ 29]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
