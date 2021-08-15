@@ -21188,6 +21188,7 @@ Make sure 'TopDownExampleMap' has been compiled for  Set currentCamera
 [2021.08.15-03.01.29:044][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Walnut_Mat]
 [2021.08.15-03.01.29:049][296]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/T_Wood_Walnut_Mat_Auto38AD2BE8F4A929B03F658169276590B53.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Walnut_Mat_Auto3.uasset'
 [2021.08.15-03.01.29:050][296]LogFileHelpers: Auto-saving content packages took 0.015
+<<<<<<< HEAD
 [2021.08.15-03.03.35:533][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2021.08.15-03.03.35:580][214]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap9D79291A4051107A99E9039B1BD1B3EE.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap'
 [2021.08.15-03.03.35:728][214]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_BuiltData2791FBA34123AD51E3F6A3AD590785BE.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
@@ -22510,3 +22511,5 @@ Make sure 'TopDownExampleMap' has been compiled for  Set currentCamera
 [2021.08.15-04.04.49:532][534]LogExit: Exiting.
 [2021.08.15-04.04.49:544][534]Log file closed, 08/14/21 23:04:49
 >>>>>>> parent of 6b50f3c (commit)
+=======
+>>>>>>> parent of e8ab890 (PushLatest)
