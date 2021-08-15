@@ -19958,3 +19958,30 @@ Make sure 'TopDownExampleMap' has been compiled for  Set currentCamera
 [2021.08.15-03.01.29:044][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Walnut_Mat]
 [2021.08.15-03.01.29:049][296]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/T_Wood_Walnut_Mat_Auto38AD2BE8F4A929B03F658169276590B53.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Walnut_Mat_Auto3.uasset'
 [2021.08.15-03.01.29:050][296]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.08.15-03.03.35:533][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.15-03.03.35:580][214]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap9D79291A4051107A99E9039B1BD1B3EE.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.15-03.03.35:728][214]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_BuiltData2791FBA34123AD51E3F6A3AD590785BE.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.15-03.03.35:740][214]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.15-03.03.35:740][214]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.15-03.03.35:740][214]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.15-03.03.36:147][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.15-03.03.36:198][245]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMapFA92C17B4E75096009399385078E9B8E.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.15-03.03.36:347][245]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_BuiltData72ECCD534CB47196B3C21CB28B9B2083.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.15-03.03.36:361][245]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.15-03.03.36:361][245]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.15-03.03.36:361][245]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.15-03.03.40:046][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.15-03.03.40:091][656]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap9D5C87964BF332CBE92513A1F1A38501.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.08.15-03.03.40:238][656]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownExampleMap_BuiltData92B6ADAE4667BE4D86304ABF215DD6BD.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.08.15-03.03.40:249][656]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.15-03.03.40:249][656]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.08.15-03.03.40:249][656]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.08.15-03.03.42:273][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.08.15-03.03.42:303][871]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/TopDownCharacter3F88E5FD4462A0C4A88EF5872C9F8B62.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2021.08.15-03.03.42:306][871]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/T_Wood_Walnut_Mat0F446732493CA653D150A2895EEB033F.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/StarterContent/Textures/T_Wood_Walnut_Mat.uasset'
+[2021.08.15-03.03.42:308][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door" FILE="../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/Door.uasset" SILENT=true
+[2021.08.15-03.03.42:312][871]LogSavePackage: Moving '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Saved/Door129A1D7C4A9EA8E69C6CD0B192A09DA9.tmp' to '../../../../../Users/Pc/Desktop/Summer-Game-Jam-2021/Summer-Game-Jam-2021/SummerGameJam2021/Content/Door.uasset'
+[2021.08.15-03.03.42:329][871]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.15-03.03.42:329][871]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2021.08.15-03.03.42:329][871]LogContentValidation: Display: Validating Material /Game/StarterContent/Textures/T_Wood_Walnut_Mat.T_Wood_Walnut_Mat
+[2021.08.15-03.03.42:329][871]LogContentValidation: Display: Validating Blueprint /Game/Door.Door
