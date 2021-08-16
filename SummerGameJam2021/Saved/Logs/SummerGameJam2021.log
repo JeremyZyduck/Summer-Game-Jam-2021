@@ -4261,3 +4261,11 @@ SkySphereBlueprint
 [2021.08.16-02.47.36:270][290]AssetCheck: New page: Asset Save: multiple assets
 [2021.08.16-02.47.36:270][290]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.08.16-02.47.36:270][290]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/MainLevel.MainLevel
+[2021.08.16-02.48.03:995][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainLevel" FILE="../../../../Projects/SummerJam21/SummerGameJam2021/Content/TopDownBP/Maps/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.16-02.48.04:016][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.08.16-02.48.04:139][660]LogSavePackage: Moving '../../../../Projects/SummerJam21/SummerGameJam2021/Saved/MainLevel1F01561248817D73CF410487A6354C78.tmp' to '../../../../Projects/SummerJam21/SummerGameJam2021/Content/TopDownBP/Maps/MainLevel.umap'
+[2021.08.16-02.48.04:161][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainLevel_BuiltData" FILE="../../../../Projects/SummerJam21/SummerGameJam2021/Content/TopDownBP/Maps/MainLevel_BuiltData.uasset" SILENT=true
+[2021.08.16-02.48.04:315][660]LogSavePackage: Moving '../../../../Projects/SummerJam21/SummerGameJam2021/Saved/MainLevel_BuiltData0BC7CCA74939F7150689F8A211220DF2.tmp' to '../../../../Projects/SummerJam21/SummerGameJam2021/Content/TopDownBP/Maps/MainLevel_BuiltData.uasset'
+[2021.08.16-02.48.04:346][660]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.16-02.48.04:346][660]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.08.16-02.48.04:346][660]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/MainLevel.MainLevel
